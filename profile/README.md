@@ -1,4 +1,4 @@
-# Welcome to PackPal Organization!
+# Welcome to PackPal!
 
 ## 🙋‍♀️ Introduction
 Welcome to PackPal, your ultimate travel assistant app designed to help users manage and organize their trips and luggage effortlessly. Our mission is to make travel planning as smooth and enjoyable as possible. PackPal allows users to create personalized trips, manage packing lists, and access destination weather information, all in one convenient place.
